@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I am currently learning Python
+- 🌱 I am currently learning Django
 - 👯 I'm looking to collaborate on Python projects
 - ⚡ Curiosity: I really like to play, watch series and movies, go to the gym and face new challenges
 
