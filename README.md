@@ -14,7 +14,8 @@
   <img align="center" alt="Heitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Heitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Heitor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Heitor-Django" height="30" width="40" src="https://icons8.com.br/icon/LPmcJ9e0FU7K/django-a-high-level-python-web-framework-that-encourages-rapid-development">
+  <img align="center" alt="Heitor-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+         
   
   
 </div>
