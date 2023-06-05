@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I am currently learning SQL
+- 🌱 I am currently learning C++
 - 👯 I'm looking to collaborate on Python projects
 - ⚡ Curiosity: I really like to play, watch series and movies, go to the gym and face new challenges
 
